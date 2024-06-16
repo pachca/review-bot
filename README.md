@@ -85,7 +85,7 @@ npm run build
    1. GITHUB_ACCESS_TOKEN - [access_token пользователя с доступом к репозиторию и rest-api](#получите-токен-авторизации-в-github-rest-api)
    2. GITHUB_USER_LOGIN - [логин пользователя в github, чей access_token вы получили](#получите-токен-авторизации-в-github-rest-api)
    3. GITHUB_OWNER - название организации. Например, для текущего репозитория https://github.com/pachca/review-bot - это pachca
-   4. GITHUB_REPO - название организации. Например, для текущего репозитория https://github.com/pachca/review-bot - это review-bot
+   4. GITHUB_REPO - название репозитория. Например, для текущего репозитория https://github.com/pachca/review-bot - это review-bot
    5. PACHCA_API_ACCESS_TOKEN - [access_token бота в Пачке](#создайте-бота-в-пачке)
    6. PACHCA_CHAT_ID - [чат Пачки, в котором будут создаваться сообщения](#создайте-бота-в-пачке). Бот должен быть участником этого чата.
 5. Сохраните изменения
